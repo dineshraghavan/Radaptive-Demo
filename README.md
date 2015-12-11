@@ -1,1 +1,4 @@
-# Radaptive-Demo
+Radaptive
+=========
+
+Jgit integration Radaptive Application
